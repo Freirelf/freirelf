@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5D00F5&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I+am+Lucas+Freire;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 #### About
-I'm a Web Developer. And I seek to evolve daily with technology.
+I'm a Software Developer. And I seek to evolve daily with technology.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Freirelf&show_icons=true&count_private=true&hide_border=true&title_color=5D00F5&icon_color=5D00F5&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Freire github stats" /> 
